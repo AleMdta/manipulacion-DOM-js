@@ -1,0 +1,22 @@
+/*Estilos generales*/
+body {
+    text-align: center;
+    background-color: rgb(237, 221, 249);
+}
+/*Estilos imagen*/
+#img-consultorio {
+    height: auto;
+    max-width: 100%;
+}
+
+form {
+    padding-top: 30%;
+}
+
+#mensaje-confirmacion {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 2%;
+}
